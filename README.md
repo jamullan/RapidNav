@@ -26,8 +26,6 @@ $ source ~/.bash_rc
 
 ### How to Run
 In your command line application, execute the command `nav` to open the Rapid Nav utility
-### Features
-
 
 ### Configuration Options
 The variables on the first two lines of the `main` function in the `nav` Bash script, as show below set to their default values, control configuration options:
@@ -37,9 +35,6 @@ local display_width=40
 #The name that will be displayed in the main menu enclosed in an asterisks box
 local host_name="My Computer"
 ```
-
-
-
 
 ## Demos
 ### Adding a Command
@@ -51,5 +46,5 @@ Quickly run a command with just a few key strokes. `nav`...`2` is the new `pytho
 ![Running a Command](<demo_files/RunCommand4X.gif>)
 
 ### Scope
-A command is only available in the scope that you set. In this example, the `Start server` command is availble only when in the `Sample Project` directory or one of its subdirectories, hence its disappearance when running Rapid Nav in the `AnotherSampleProject` directory.<br /><br />
+A command is only available in the scope that you set. In this example, the `Start server` command is availble only when in the `SampleProject` directory or one of its subdirectories, hence its disappearance when running Rapid Nav in the `AnotherSampleProject` directory.<br /><br />
 ![A command will only be available if the current working directory aligns with the specifications for when that command was added](<demo_files/Scope4X.gif>)
