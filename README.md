@@ -14,7 +14,7 @@ $ git clone https://github.com/jamullan/rapid-nav.git
 2. If on macOS, open `~/.bash_profile`; otherwise, open `~/.bash_rc`. If the file does not exist, create it in your home directory
 3. Add an alias that sources the `nav` executable, substituting the actual absolute path to this repo on your machine. Without sourcing the `nav` executable each time you wish to run it, it will not change the environment of your active shell.
 ```
-$ alias nav="source /absolute/path/to/this/repo/nav"
+$ alias nav="source /absolute/path/to/this/repo/nav.sh"
 ```
 4. Save the changes to your `~/.bash_profile` or `~/.bash_rc` file
 5. Relaunch your command line application, or source your `~/.bash_profile` or `~/.bash_rc` file
