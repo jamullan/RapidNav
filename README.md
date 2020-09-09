@@ -1,5 +1,5 @@
 # Rapid Nav
-A Bash script that makes navigating and executing commands in the command line more efficient.<br />
+A Bash script that makes navigating and executing commands in the command line more efficient. Save commands you often use, then run them quickly with just a few key strokes. Link them to certain directories so you see what you need to, when you need to, and nothing more.<br />
 [**Jump to Demos**](<#demos>)<br />
 <br />
 **Last updated (this file):** 9/9/2020<br />
