@@ -8,7 +8,7 @@
 # main menu and settings menu
 main() {
     local display_width=40
-    local host_name="John's Laptop"
+    local host_name="My Computer"
 
     DEFAULT_IFS=$' \t\n'
     IFS=$DEFAULT_IFS
