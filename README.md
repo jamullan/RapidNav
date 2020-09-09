@@ -46,7 +46,9 @@ local host_name="My Computer"
 ![Adding a Command](<demo_files/AddCommand4X.gif>)
 
 ### Running a Command
+Quickly run a command with just a few key strokes
 ![Running a Command](<demo_files/RunCommand4X.gif>)
 
 ### Scope
+A command is only available in the scope that you set
 ![A command will only be available if the current working directory aligns with the specifications for when that command was added](<demo_files/Scope4X.gif>)
