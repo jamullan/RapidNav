@@ -48,3 +48,12 @@ Quickly run a command with just a few key strokes. `nav`...`2` is the new `pytho
 ### Scope
 A command is only available in the scope that you set. In this example, the `Start server` command is availble only when in the `SampleProject` directory or one of its subdirectories, hence its disappearance when running Rapid Nav in the `AnotherSampleProject` directory.<br /><br />
 ![A command will only be available if the current working directory aligns with the specifications for when that command was added](<demo_files/Scope4X.gif>)
+
+## Future Directions
+Below is a list of features that I plan to implement to improve the customizabiblity and performance of Rapid Nav:
+* Implement a hash table to improve lookups from the nav_data file, on average, from O(n) to O(1)
+* Validate cd commands (verify the path exists)
+* Validate open commands (verify the file or directory exists)
+* Add submenus
+* Add option to view and edit existing commands
+* Add color configuration option to settings (to further distinguish globbal and local commands, to colorize the main menu astericks box, etc.)
