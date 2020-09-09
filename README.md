@@ -32,10 +32,10 @@ In your command line application, execute the command `nav` to open the Rapid Na
 ### Configuration Options
 The variables on the first two lines of the `main` function in the `nav` Bash script, as show below set to their default values, control configuration options:
 ```Shell
-#The width of the main menu (in units of the number of characters across) is set by the 
+#The width of the main menu (in units of the number of characters across)
 local display_width=40
 #The name that will be displayed in the main menu enclosed in an asterisks box
-local host_name="John's Laptop"
+local host_name="My Computer"
 ```
 
 
