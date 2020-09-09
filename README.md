@@ -50,5 +50,5 @@ Quickly run a command with just a few key strokes.<br /><br />
 ![Running a Command](<demo_files/RunCommand4X.gif>)
 
 ### Scope
-A command is only available in the scope that you set. The `Start server` command is availble only when in the `Sample Project` directory or one of its subdirectories, hence its disappearance when running Rapid Nav in the `AnotherSampleProject` directory.<br /><br />
+A command is only available in the scope that you set. In this example, the `Start server` command is availble only when in the `Sample Project` directory or one of its subdirectories, hence its disappearance when running Rapid Nav in the `AnotherSampleProject` directory.<br /><br />
 ![A command will only be available if the current working directory aligns with the specifications for when that command was added](<demo_files/Scope4X.gif>)
