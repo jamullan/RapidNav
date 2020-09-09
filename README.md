@@ -1,6 +1,6 @@
 # Rapid Nav
 A Bash script that makes navigating and executing commands in the command line more efficient.<br />
-[**Jump to Demos**](<#demos>)
+[**Jump to Demos**](<#demos>)<br />
 <br />
 **Last updated (this file):** 9/8/2020<br />
 **Author:** John Mullan<br />
