@@ -8,7 +8,7 @@
 ### How to Run
 ```
 # Clone this repository
-$ git clone ...
+$ git clone https://github.com/jamullan/rapid-nav.git
 ```
 
 ## Demos
