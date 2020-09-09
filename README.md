@@ -43,7 +43,7 @@ local host_name="My Computer"
 
 ## Demos
 ### Adding a Command
-Add commands quickly, exactly how you prefer.<br /><br />
+Add commands quickly, yet carefully, exactly how you prefer.<br /><br />
 ![Adding a Command](<demo_files/AddCommand4X.gif>)
 
 ### Running a Command
