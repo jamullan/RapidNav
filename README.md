@@ -1,5 +1,6 @@
 # Rapid Nav
-...<br />
+A Bash script that makes navigating and executing commands in the command line more efficient.<br />
+[**Jump to Demos**](<#demos>)
 <br />
 **Last updated (this file):** 9/8/2020<br />
 **Author:** John Mullan<br />
@@ -8,10 +9,12 @@
 ### How to Run
 ```
 # Clone this repository
-$ git clone ...
+$ git clone https://github.com/jamullan/rapid-nav.git
+
+# Move the repo to 
 ```
 
-## Demo
+## Demos
 ### Adding a Command
 ![Adding a Command](<demo_files/AddCommand4X.gif>)
 
