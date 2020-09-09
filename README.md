@@ -12,7 +12,7 @@ A Bash script that makes navigating and executing commands in the command line m
 $ git clone https://github.com/jamullan/rapid-nav.git
 ```
 2. If on macOS, open `~/.bash_profile`; otherwise, open `~/.bash_rc`. If the file does not exist, create it in your home directory
-3. Add an alias that sources the `nav` executabble, substituting the actual absolute path to this repo on your machine. Without sourcing the `nav` executable each time you wish to run it, it will not change the environment of your active shell.
+3. Add an alias that sources the `nav` executable, substituting the actual absolute path to this repo on your machine. Without sourcing the `nav` executable each time you wish to run it, it will not change the environment of your active shell.
 ```
 $ alias nav="source /absolute/path/to/this/repo/nav"
 ```
@@ -22,6 +22,17 @@ $ alias nav="source /absolute/path/to/this/repo/nav"
 $ source ~/.bash_profile
 # OR
 $ source ~/.bash_rc
+```
+
+### How to Run
+In your command line application, execute the command `nav` to open the Rapid Nav utility
+### Features
+
+
+### Configuration Options
+The first two lines of the `main` function in the `nav` Bash script control configuration options:
+```Bash
+The width of the main menu (in units of the number of characters across) is set by the 
 ```
 
 
