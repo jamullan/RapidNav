@@ -11,7 +11,7 @@
 $ git clone ...
 ```
 
-## Demo
+## Demos
 ### Adding a Command
 ![Adding a Command](<demo_files/AddCommand4X.gif>)
 
