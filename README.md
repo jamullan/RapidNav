@@ -13,5 +13,8 @@ $ git clone ...
 
 ## Demo
 ### Adding a Command
-4x
 ![Adding a Command](<demo_files/AddCommand4X.gif>)
+
+### Running a Command
+![Running a Command](<demo_files/RunCommand4X.gif>)
+
