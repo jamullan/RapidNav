@@ -10,3 +10,7 @@
 # Clone this repository
 $ git clone ...
 ```
+
+## Demo
+### Adding a Command
+![Adding a Command](<demo_files/AddCommand.gif>)
