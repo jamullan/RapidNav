@@ -43,10 +43,11 @@ local host_name="My Computer"
 
 ## Demos
 ### Adding a Command
+Add commands quickly, exactly how you prefer.<br /><br />
 ![Adding a Command](<demo_files/AddCommand4X.gif>)
 
 ### Running a Command
-Quickly run a command with just a few key strokes.<br /><br />
+Quickly run a command with just a few key strokes. `nav`...`2` is the new `python3 -m http.server 5000`.<br /><br />
 ![Running a Command](<demo_files/RunCommand4X.gif>)
 
 ### Scope
