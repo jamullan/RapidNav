@@ -2,7 +2,7 @@
 A Bash script that makes navigating and executing commands in the command line more efficient.<br />
 [**Jump to Demos**](<#demos>)<br />
 <br />
-**Last updated (this file):** 9/8/2020<br />
+**Last updated (this file):** 9/9/2020<br />
 **Author:** John Mullan<br />
 
 ## Usage
@@ -56,4 +56,4 @@ Below is a list of features that I plan to implement to improve the customizabib
 * Validate open commands (verify the file or directory exists)
 * Add submenus
 * Add option to view and edit existing commands
-* Add color configuration option to settings (to further distinguish globbal and local commands, to colorize the main menu astericks box, etc.)
+* Add color configuration option to settings (to further distinguish global and local commands, to colorize the main menu astericks box, etc.)
